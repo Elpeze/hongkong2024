@@ -95,7 +95,7 @@
               </div>
               <div class="btn" @click="buyTicket">
                 <!-- <span class="g-icon-loader"></span> -->
-                <span>Apply To Event</span>
+                <span>  Apply  Event  </span>
               </div>
               <div class="miniBtn" @click="buyTicket">
                
