@@ -56,7 +56,7 @@
         <li>
           <NuxtLink to="/speakers">Speakers</NuxtLink>
         </li>
-        <li><NuxtLink to="/sponsors">Sponsors</NuxtLink></li>
+        <!-- <li><NuxtLink to="/sponsors">Sponsors</NuxtLink></li> -->
         <li><NuxtLink to="/about">About</NuxtLink></li>
         <li><NuxtLink to="/agenda">Agenda</NuxtLink></li>
       </ul>

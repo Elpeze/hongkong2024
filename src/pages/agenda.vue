@@ -217,9 +217,9 @@ let agendaList = reactive([
             introduce: "Head of Research, TON",
           },
           {
-            img: "eigen.jpg",
-            name: "EigenLayer (TBD)",
-            introduce: "TBD",
+            img: "artela.jpg",
+            name: "CP",
+            introduce: "cto, Artela",
           },
         ],
       },
@@ -260,13 +260,13 @@ let agendaList = reactive([
       },
 
       {
-        topics:"TBA",
+        topics:"Introducing the First Modular AI Chain: Launch AI Dapps on the Fastest DA",
         time: "16:15 - 16:30",
         speakerList: [
           {
-            img: "tba.png",
-            name: "TBA  ",
-            introduce: "TBA",
+            img: "michael.jpg",
+            name: "Michael Heinrich  ",
+            introduce: "Founder & CEO, 0G",
           },
         ],
       },
@@ -339,8 +339,9 @@ let agendaList = reactive([
             img: "martin.jpg",
             name: "Martin",
             introduce:
-              "CEO, ByteHunter",
+              "CEO, ByteHunter ",
           },
+
           {
             img: "wang.jpg", 
             name: "Wang Meng ",

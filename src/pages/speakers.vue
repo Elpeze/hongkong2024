@@ -102,6 +102,12 @@ const speakers = reactive([
   },
 
   {
+    img: "michael.jpg",
+    name: "Michael Heinrich ",
+    position: "Founder & CEO, 0G",
+  },
+
+  {
     img: "jennifer.jpg",
     name: "Jennifer",
     position: "Head of Ecosystem, Manta",
@@ -115,6 +121,12 @@ const speakers = reactive([
     img: "artela.jpg",
     name: "CP ",
     position: "CTO, Artela",
+  },
+
+  {
+    img: "martin.jpg",
+    name: "Martin ",
+    position: "CEO, ByteHunter",
   },
   {
     img: "eric.jpg",
@@ -141,11 +153,7 @@ const speakers = reactive([
     name: "Jackson",
     position: "Founder, 0xScope",
   },
-  {
-    img: "martin.jpg",
-    name: "Martin",
-    position: "CEO, ByteHunter",
-  },
+  
 
   {
     img: "wang.jpg",
